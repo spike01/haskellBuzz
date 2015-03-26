@@ -9,5 +9,5 @@ Run the snippet like this:
 
 ```sh
 :l fizzBuzz.hs
-[fizzbuzz x | x <- [1..100]]
+[fizzBuzz x | x <- [1..100]]
 ```
